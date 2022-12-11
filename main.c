@@ -9,7 +9,7 @@
 #include <stdio.h>
 #include <inttypes.h>
 #include <stdlib.h>		// Function 'strtol'
-#include <conio.h>		// Function 'getch'
+#include "conio.h"		// Function 'getch'
 #include "gshell.h"
 
 /* Each dynamic command is added from 1 upwards. Since the
